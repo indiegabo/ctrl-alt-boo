@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/95456621/197367652-04ccbd4d-fa40-485b-
 
 ## Como funciona
 
-Na pasta "Assets/_Project/Materials" você vai encontrar o material "HideInShadow". Utilize ele em qualquer sprite que você quiser que fique completamente apagada na cena caso nenhuma iluminação a afete. Daí é só utilizar esse material em qualquer SpriteRenderer que você queira causar efeito.
+Na pasta "Assets/_Project/Materials" você vai encontrar o material "HideInShadow". Ele é feito para que a sprite fique completamente apagada na cena caso nenhuma iluminação a afete. Daí é só utilizar esse material em qualquer SpriteRenderer que você queira causar efeito.
 
 Note que para que funcione o SpriteRenderer em questão deve estar configurado para uma Sorting Layer que não seja afetada por nenhuma outra luz que a do campo de visão (FOV - Field of view) do player. Dá uma olhada nos exemplos abaixo (retirados da cena exemplo nesse projeto).
 
