@@ -26,7 +26,7 @@ Note que apenas luzes que definem o campo de visão do player deverão estar com
 
 ## Importando apenas o que interessa
 
-Se não quiser baixar o projeto para fazer sua própria extração, tá aqui o link para download do pacote da Unity: ![Hide In Shadow Package](https://drive.google.com/file/d/1R16Hj4wnkBdlOpAXtfkVIIQeCQYyPsP1/view?usp=sharing) .
+Se não quiser baixar o projeto para fazer sua própria extração, tá aqui o link para download do pacote da Unity: [Hide In Shadow Package](https://drive.google.com/file/d/1R16Hj4wnkBdlOpAXtfkVIIQeCQYyPsP1/view?usp=sharing) .
 
 **OBS:** O arquivo "CombinedShapeLightSharedHidden.hlsl" deve estar na mesma página que o arquivo "HideInShadow.shader" senão o shader não vai funcionar.
 
@@ -38,9 +38,9 @@ Se não quiser baixar o projeto para fazer sua própria extração, tá aqui o l
 
 ## Referências
 
-* Apesar de não conseguir fazer rodar na Unity 2021.3.* , aprendi muito com ![esse vídeo](https://www.youtube.com/watch?v=XWMPEE8O05c) e código fonte disponibilizado nele. 
+* Apesar de não conseguir fazer rodar na Unity 2021.3.* , aprendi muito com [esse vídeo](https://www.youtube.com/watch?v=XWMPEE8O05c) e código fonte disponibilizado nele. 
 
-* Foi com nessa pergunta do ![StackOverflow](https://stackoverflow.com/questions/65696260/is-there-a-way-to-hide-a-player-who-is-in-the-shadow-in-unity-2d-light-system/67780057#67780057) que eu descobri como fazer o shader.
+* Foi com nessa pergunta do [StackOverflow](https://stackoverflow.com/questions/65696260/is-there-a-way-to-hide-a-player-who-is-in-the-shadow-in-unity-2d-light-system/67780057#67780057) que eu descobri como fazer o shader.
 
 ## Conclusão
 
