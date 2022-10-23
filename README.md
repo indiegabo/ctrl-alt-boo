@@ -32,7 +32,8 @@ Se não quiser baixar o projeto para fazer sua própria extração, tá aqui o l
 
 ## Dependências
 
-* Unity 2021.3.11f1 (LTS) com URP (Universal Render Pipeline) instalado
+* Unity com com URP (Universal Render Pipeline) instalado
+* Testado na Unity 2021.3.11f1 (LTS) 
 * Testado com URP versão 12.1.7
 * O player na cena exemplo utiliza o ("novo") Input System "1.4.3".
 
