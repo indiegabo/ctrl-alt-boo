@@ -4,7 +4,7 @@
 
 Para caso alguém resolva utilizar Unity:
 
-A ideia dessa mecânica inspirada no jogo [Darkwood]([https://pages.github.com/](https://store.steampowered.com/app/274520/Darkwood/)) é permitir que elementos estejam escondidos na cena e apenas quando estiverem no campo de visão do player ficarão visíveis. Permite criar uma atmosfera sombria e recheada de suspense. 
+A ideia dessa mecânica inspirada no jogo ![Darkwood]([https://pages.github.com/](https://store.steampowered.com/app/274520/Darkwood/)) é permitir que elementos estejam escondidos na cena e apenas quando estiverem no campo de visão do player ficarão visíveis. Permite criar uma atmosfera sombria e recheada de suspense. 
 
 Abaixo você pode perceber um exemplo demonstrando como pode funcionar.
 
