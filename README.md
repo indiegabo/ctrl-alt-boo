@@ -1,8 +1,10 @@
 # Contribuição para a ctrl-alt-boo
 
-## Proposta
+Para caso alguém resolva utilizar Unity.
 
-Para caso alguém resolva utilizar Unity:
+Esse repositório é um projeto exemplo. Você pode clonar para ver a cena Exemplo, ou clicar no botão "code" para baixar o projeto zipado e poder abrir usando a Unity no seu PC.
+
+## Proposta
 
 A ideia dessa mecânica inspirada no jogo [Darkwood](https://store.steampowered.com/app/274520/Darkwood/) é permitir que elementos estejam escondidos na cena e apenas quando estiverem no campo de visão do player ficarão visíveis. Permite criar uma atmosfera sombria e recheada de suspense. 
 
